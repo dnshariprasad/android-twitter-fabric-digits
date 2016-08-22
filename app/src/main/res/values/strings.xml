@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TwitterDdigits</string>
+    <string name="twitter_secret">TFZqGcvngzMgUWp74rD8PbeqmiIwr37YvtjDcFNDYvHRspP5dp</string>
+    <string name="twitter_key">tqR8IamYPw0VWbG4a4yMonEsT</string>
 </resources>
